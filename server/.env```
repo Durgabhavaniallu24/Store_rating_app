@@ -1,0 +1,9 @@
+Change the PORT value.
+
+2. Client's environment file at:
+```plaintext:c%3A%5CUsers%5Cviswa%5Ctask%5Cclient%5C.env%60%60%60
+Change both the PORT and REACT_APP_API_URL values.
+
+Would you like me to show you the specific changes needed for these files?
+
+Also, it seems your .env file content got mixed with the netstat output. Let's fix that formatting issue as well.
